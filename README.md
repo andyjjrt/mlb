@@ -12,5 +12,20 @@ data
 └── mlb_elo.csv
 ```
 
-# Start the Program
-TBA
+# Install
+
+```sh
+python -m venv mlb
+. ./mlb/bin/activate
+```
+
+```sh
+pip isntall -r requirements.txt
+```
+
+# Run
+
+```sh
+python dump.py
+python main.py
+```
