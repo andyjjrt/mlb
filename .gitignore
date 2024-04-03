@@ -4,3 +4,4 @@ mlb/
 
 *.db
 *.pyc
+*.keras
